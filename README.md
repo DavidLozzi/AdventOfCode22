@@ -6,7 +6,9 @@ This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of m
 
 Check back here daily for updates!
 
+-----
+
 ### #ImWithSlalom
-Other Slalom folk joining the fun:
+Other [Slalom](https://slalom.com) folk joining the fun:
 
 [Connor's in React](https://github.com/angusmccloud/aoc2022)
