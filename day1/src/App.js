@@ -36,7 +36,7 @@ function App() {
     setPart2(elves.filter((e,i) => i < 3).reduce((a,b) => a + b.total, 0))
   }
   return (
-    <Container><Typography variant="h1">Day 1 - Calorie Counting</Typography>
+    <Container><Typography variant="h3" component="h1" >Day 1 - Calorie Counting</Typography>
       <Grid container spacing={3}>
         <Grid item xs={12} sm={4}>
           <Box
