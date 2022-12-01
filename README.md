@@ -40,6 +40,7 @@ Check back here daily for updates!
 ### #ImWithSlalom
 Other [Slalom](https://slalom.com) folk joining the fun:
 
+- [Anthony](https://github.com/amorla/advent22)
 - [Connor's in React](https://github.com/angusmccloud/aoc2022)
 - [Jorge](https://github.com/jorge-jimenez2021/adventOfCode22)
 - [Venks](https://github.com/venkspai/aoc2022)
