@@ -12,7 +12,7 @@ I will be completing them all using ReactJS, AND a different component/UI/design
 
 The librarie's I'll check out:
 
-1. [MUI](https://mui.com/)
+1. [MUI](https://mui.com/) - Day 1
 2. [React-Bootstrap](https://react-bootstrap.github.io/)
 3. [Semantic UI](https://semantic-ui.com/)
 4. [Blueprint](https://blueprintjs.com/)
