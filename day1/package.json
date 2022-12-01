@@ -2,6 +2,7 @@
   "name": "day1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aoc22.davidlozzi.com/day1/build/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
