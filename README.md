@@ -14,8 +14,8 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 
 ## The Days
 
-[Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
-[Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day1/build/)
+- [Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
+- [Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day1/build/)
 
 -----
 
