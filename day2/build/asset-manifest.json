@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/day2/build/static/css/main.c2cab247.css",
+    "main.js": "/day2/build/static/js/main.0e9d6d6d.js",
+    "static/js/787.b5075cad.chunk.js": "/day2/build/static/js/787.b5075cad.chunk.js",
+    "index.html": "/day2/build/index.html",
+    "main.c2cab247.css.map": "/day2/build/static/css/main.c2cab247.css.map",
+    "main.0e9d6d6d.js.map": "/day2/build/static/js/main.0e9d6d6d.js.map",
+    "787.b5075cad.chunk.js.map": "/day2/build/static/js/787.b5075cad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.0e9d6d6d.js"
+  ]
+}
