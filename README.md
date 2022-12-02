@@ -10,6 +10,15 @@ This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of m
 
 I will be completing them all using ReactJS, AND a different component/UI/design library. I have a list of 20 different libraries to play with. Let's see how they work, if they make my app look any better (or worse), how easy are they to learn (if it takes more than 5 minutes then it's out). I won't be creating a theme and going overboard, just the out of the box components and we'll see what they can do.
 
+Check back here daily for updates! Follow me on [Twitter](https://twitter.com/davidlozzi) or [Mastodon](https://mastodon.world/@davidlozzi).
+
+## The Days
+
+[Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
+[Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day1/build/)
+
+-----
+
 The libraries I'll check out:
 
 1. [MUI](https://mui.com/) - [Day 1](/day1/build/)
@@ -32,13 +41,6 @@ The libraries I'll check out:
 18. [Belle](https://nikgraf.github.io/belle)
 19. [PrimeReact](https://www.primefaces.org/primereact/)
 20. [Arco Design](https://arco.design/en-US)
-
-Check back here daily for updates!
-
-## The Days
-
-[Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
-[Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day1/build/)
 
 -----
 
