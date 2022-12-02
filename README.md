@@ -47,4 +47,5 @@ Other [Slalom](https://slalom.com) folk joining the fun:
 - [Anthony, JavaScript](https://github.com/amorla/advent22)
 - [Connor, React](https://github.com/angusmccloud/aoc2022)
 - [Jorge, React](https://github.com/jorge-jimenez2021/adventOfCode22)
+- [Josh, JavaSript](https://github.com/wwnjp/AdventOfCode2022)
 - [Venks, Go](https://github.com/venkspai/aoc2022)
