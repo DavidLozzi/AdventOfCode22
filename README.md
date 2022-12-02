@@ -13,7 +13,7 @@ I will be completing them all using ReactJS, AND a different component/UI/design
 The libraries I'll check out:
 
 1. [MUI](https://mui.com/) - [Day 1](/day1/build/)
-2. [React-Bootstrap](https://react-bootstrap.github.io/)
+2. [React-Bootstrap](https://react-bootstrap.github.io/) - [Day 2](/day2/build/)
 3. [Semantic UI](https://semantic-ui.com/)
 4. [Blueprint](https://blueprintjs.com/)
 5. [NextUI](https://nextui.org/)
@@ -37,7 +37,8 @@ Check back here daily for updates!
 
 ## The Days
 
-[Day 1](https://aoc22.davidlozzi.com/day1/build/)
+[Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
+[Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day1/build/)
 
 -----
 
