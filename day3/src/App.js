@@ -68,6 +68,7 @@ CrZsJsPPZsGzwwsLwLmpwMDw`)
           })
           return true
         }
+        return false
       })
     }
     setAnswer2(newAnswer)
