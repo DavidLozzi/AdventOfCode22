@@ -17,6 +17,7 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 - [Day 1: Calorie Counting](https://aoc22.davidlozzi.com/day1/build/)
 - [Day 2: Rock Paper Scissors](https://aoc22.davidlozzi.com/day2/build/)
 - [Day 3: Rucksack Reorganization](https://aoc22.davidlozzi.com/day3/build/)
+- [Day 4: Camp Cleanup](https://aoc22.davidlozzi.com/day4/build)
 
 -----
 
@@ -25,7 +26,7 @@ The libraries I'll check out:
 1. [MUI](https://mui.com/) - [Day 1](/day1/build/)
 2. [React-Bootstrap](https://react-bootstrap.github.io/) - [Day 2](/day2/build/)
 3. [Semantic UI](https://react.semantic-ui.com/) - [Day 3](/day3/build)
-4. [Blueprint](https://blueprintjs.com/)
+4. [Blueprint](https://blueprintjs.com/) [Day 4](/day4/build)
 5. [NextUI](https://nextui.org/)
 6. [Headless UI](https://headlessui.com/)
 7. [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/)
