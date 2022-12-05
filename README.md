@@ -49,6 +49,7 @@ The libraries I'll check out:
 ### #ImWithSlalom
 Other [Slalom](https://slalom.com) folk joining the fun:
 
+- [Aditya, Python](https://github.com/adityarkelkar/advent22)
 - [Anthony, JavaScript](https://github.com/amorla/advent22)
 - [Connor, React](https://github.com/angusmccloud/aoc2022)
 - [Jonah, Python](https://github.com/jonah-abraham/advent)
