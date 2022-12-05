@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/day5/build/static/js/main.479fc05d.js",
+    "static/js/787.6a138872.chunk.js": "/day5/build/static/js/787.6a138872.chunk.js",
+    "index.html": "/day5/build/index.html",
+    "main.479fc05d.js.map": "/day5/build/static/js/main.479fc05d.js.map",
+    "787.6a138872.chunk.js.map": "/day5/build/static/js/787.6a138872.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.479fc05d.js"
+  ]
+}
