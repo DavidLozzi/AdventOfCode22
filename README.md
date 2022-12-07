@@ -4,7 +4,7 @@ My adventures with Advent of Code 2022!
 
 ## Intro
 
-This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of my posts about my past years on [my blog](https://davidlozzi.com/tag/advent-of-code/).
+This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of my posts about my past years on [my blog](https://davidlozzi.com/tag/advent-of-code/). This site is hosted on github pages, [go to code here](https://github.com/DavidLozzi/AdventOfCode22).
 
 ## This year
 
