@@ -4,7 +4,7 @@ My adventures with Advent of Code 2022!
 
 ## Intro
 
-This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of my posts about my past years on [my blog](https://davidlozzi.com/tag/advent-of-code/). 
+This is my 3rd year jumping into the AoC. It's a lot of fun. Check out some of my posts about my past years on [my blog](https://davidlozzi.com/tag/advent-of-code/).
 
 ## This year
 
@@ -20,6 +20,7 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 - [Day 4: Camp Cleanup](https://aoc22.davidlozzi.com/day4/build)
 - [Day 5: Supply Stacks](https://aoc22.davidlozzi.com/day5/build)
 - [Day 6: Tuning Trouble](https://aoc22.davidlozzi.com/day6/build)
+- [Day 7: No Space Left On Device](https://aoc22.davidlozzi.com/day7/build)
 
 -----
 
@@ -29,9 +30,9 @@ The libraries I'll check out:
 2. [React-Bootstrap](https://react-bootstrap.github.io/) - [Day 2](/day2/build/)
 3. [Semantic UI](https://react.semantic-ui.com/) - [Day 3](/day3/build)
 4. [Blueprint](https://blueprintjs.com/) - [Day 4](/day4/build)
-5. [NextUI](https://nextui.org/) - [Day 5](/day5/build)
+5. [NextUI](https://nextui.org/)* - [Day 5](/day5/build)
 6. [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - [Day 6](/day6/build)
-7. [Ant Design](https://ant.design/)
+7. [Ant Design](https://ant.design/)* - [Day 7](/day7/build)
 8. [Grommet](https://v2.grommet.io/)
 9. [React Suite](https://rsuitejs.com/)
 10. [Chakra UI](https://chakra-ui.com/)
@@ -48,6 +49,7 @@ The libraries I'll check out:
 -----
 
 ### #ImWithSlalom
+
 Other [Slalom](https://slalom.com) folk joining the fun:
 
 - [Aditya, Python](https://github.com/adityarkelkar/advent22)
