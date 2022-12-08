@@ -21,6 +21,7 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 - [Day 5: Supply Stacks](https://aoc22.davidlozzi.com/day5/build)
 - [Day 6: Tuning Trouble](https://aoc22.davidlozzi.com/day6/build)
 - [Day 7: No Space Left On Device](https://aoc22.davidlozzi.com/day7/build)
+- [Day 8: Treetop Tree House](https://aoc22.davidlozzi.com/day8/build)
 
 -----
 
@@ -33,7 +34,7 @@ The libraries I'll check out:
 5. [NextUI](https://nextui.org/)* - [Day 5](/day5/build)
 6. [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/) - [Day 6](/day6/build)
 7. [Ant Design](https://ant.design/)* - [Day 7](/day7/build)
-8. [Grommet](https://v2.grommet.io/)
+8. [Grommet](https://v2.grommet.io/) - [Day 8](/day8/build)
 9. [React Suite](https://rsuitejs.com/)
 10. [Chakra UI](https://chakra-ui.com/)
 11. [Onsen UI](https://onsen.io/)
@@ -45,6 +46,8 @@ The libraries I'll check out:
 17. [Belle](https://nikgraf.github.io/belle)
 18. [PrimeReact](https://www.primefaces.org/primereact/)
 19. [Arco Design](https://arco.design/en-US)
+
+*libraries I enjoyed using, can't wait to use again
 
 -----
 
