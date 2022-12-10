@@ -23,6 +23,7 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 - [Day 7: No Space Left On Device](https://aoc22.davidlozzi.com/day7/build)
 - [Day 8: Treetop Tree House](https://aoc22.davidlozzi.com/day8/build)
 - [Day 9: Rope Bridge - part 1](https://aoc22.davidlozzi.com/day9/build)
+- [Day 10: Cathode-Ray Tube](https://aoc22.davidlozzi.com/day10/build)
 
 -----
 
