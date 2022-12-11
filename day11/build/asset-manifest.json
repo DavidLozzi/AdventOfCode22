@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/day11/build/static/css/main.e6c13ad2.css",
+    "main.js": "/day11/build/static/js/main.3f89a7d6.js",
+    "static/js/787.b7a769a2.chunk.js": "/day11/build/static/js/787.b7a769a2.chunk.js",
+    "index.html": "/day11/build/index.html",
+    "main.e6c13ad2.css.map": "/day11/build/static/css/main.e6c13ad2.css.map",
+    "main.3f89a7d6.js.map": "/day11/build/static/js/main.3f89a7d6.js.map",
+    "787.b7a769a2.chunk.js.map": "/day11/build/static/js/787.b7a769a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f89a7d6.js"
+  ]
+}

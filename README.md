@@ -24,6 +24,7 @@ Check back here daily for updates! Follow me on [Twitter](https://twitter.com/da
 - [Day 8: Treetop Tree House](https://aoc22.davidlozzi.com/day8/build)
 - [Day 9: Rope Bridge - part 1](https://aoc22.davidlozzi.com/day9/build)
 - [Day 10: Cathode-Ray Tube](https://aoc22.davidlozzi.com/day10/build)
+Day 11: Monkey in the Middle- [Day 11: Monkey in the Middle](https://aoc22.davidlozzi.com/day11/build)
 
 -----
 
@@ -38,7 +39,7 @@ The libraries I'll check out:
 7. [Ant Design](https://ant.design/)* - [Day 7](/day7/build)
 8. [Grommet](https://v2.grommet.io/) - [Day 8](/day8/build)
 9. [React Suite](https://rsuitejs.com/) - [Day 9](/day9/build)
-10. [Chakra UI](https://chakra-ui.com/)
+10. [Chakra UI](https://chakra-ui.com/) - [Day 11](/day11/build)
 11. [Onsen UI](https://onsen.io/)
 12. [Evergreen](https://evergreen.segment.com/)
 13. [Theme UI](https://theme-ui.com/)
