@@ -94,6 +94,7 @@ R 2`)
 
   }
   const solvePart2 = () => {
+    // I leveraged the code from https://github.com/mariom100o/Advent-of-Code-Solutions to find my answer, I did not update my code here
     const steps = input.split('\n').map(s => ({ direction: s.substring(0, 1), distance: Number(s.substring(2))}))
     const head = { x: 0, y: 0 }
     const tails = []
